@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+}
+h1{
+    font-size: 45px;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    
+    border: 2px solid black;
+    height: 7rem;
+    width: 7rem;
+    cursor: grab;
+    background-color: darkcyan;
+    font-size: 4rem;
+    color: floralwhite;
+
+}
+button{
+    background-color: greenyellow;
+    height: 30px;
+    width: 70px;
+    margin: 10px;
+}
